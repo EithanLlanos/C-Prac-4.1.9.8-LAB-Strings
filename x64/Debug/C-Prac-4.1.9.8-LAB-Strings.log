@@ -1,0 +1,4 @@
+﻿  C-Prac-4.1.9.8-LAB-Strings.cpp
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.9.8-LAB-Strings\C-Prac-4.1.9.8-LAB-Strings.cpp(43,10): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.9.8-LAB-Strings\C-Prac-4.1.9.8-LAB-Strings.cpp(43,10): message : this argument is used as a buffer size
+  C-Prac-4.1.9.8-LAB-Strings.vcxproj -> E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\x64\Debug\C-Prac-4.1.9.8-LAB-Strings.exe
